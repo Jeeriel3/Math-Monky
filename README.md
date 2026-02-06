@@ -83,20 +83,20 @@ Om de resultaten van de NPS-score meting te zien heb ik de data naar een .csv be
 Helaas is het user_name systeem niet goed doorgekomen...
 
 ## Usabilaty opdrachten:
-Website: www.fi.uu.nl/rekenweb
-Uitleg website:
+Website: www.fi.uu.nl/rekenweb__
+**Uitleg website:**
 www.fi.uu.nl/rekenweb is een website waarop je rekenspelletjes kan spelen. Spellen door de website zelf en spellen van anderen zijn te spelen. De website heeft een specifieke doelgroep: Jongere kinderen (basisschool groep 3-8). De website heeft een zoekfunctie om tussen alle spellen te zoeken. Het is gemaakt voor leerlingen en docenten, al valt dat soms wel door elkaar.
 
-Evaluatie:
+**Evaluatie:**
 De knoppen werken, maar brengen je vaak naar een 404 error, of de webserver werkt niet. Het hele idee van de website is om games te spelen, maar het spelen van de games zelf werkt niet. De knop om een spel te starten is heel klein en bijna niet te zien. Het thema is niet mooi, de website en interface is niet responsive, op een groot scherm is dus de helft van het scherm wit, terwijl op kleinere schermen veel buiten beeld valt.
 Als je de website opent, kom je op het home scherm, het is duidelijk op welk scherm je moet en wil komen. Elke knop heeft een duidelijke omschrijving en is groot. Daarna weet je niet goed waar je bent, en je kan niet makkelijk terug. Veel knoppen zijn niet te vinden en belachelijk klein.
 De GUI van de site is inconsistent. Alles ziet er anders uit en het is onoverzichtelijk.
 De optie ‘rekenbrief’ is leeg en je kan niet meer terug.
 
-Wat werkt:
+**Wat werkt:**
 Er is een nieuws optie, met nieuws over de school, dit werkt prima omdat hij je naar een andere site brengt die een stuk beter werkt.
 
-Opdracht 10:
+**Opdracht 10:**
 Usefulness: Het concept is opzich nuttig, want je kan op deze website oefenen met rekenen, maar de uitvoering daarentegen niet want de helft van de website werkt niet. Leuk idee, minder leuke uitvoering.
 Findability: De website is aardig overzichtelijk. Er zijn kopjes met daarop wat ze doen en een tekst erbij die nog meer info geeft. De tekst binnenin de kopjes is echter wel enorm klein en bijna niet leesbaar.
 Credibility: Knopjes zeggen: “Speel hier”, maar als je op een knop klikt dan doet het niks, dus credibility is zeer matig.
@@ -105,21 +105,14 @@ Value: Het werkt niet en heeft hetzelfde idee als andere betere gratis sites, du
 
 GEEL = Zou ik zeker op mijn eigen site zetten.
 
-
-
-
-
-
-
-
-Opdracht 19:
+**Opdracht 19:**
 Doel onderzoek:
 We willen dat de website goed werkt, dat alle knoppen doen wat ze moeten doen en dat de website er professioneler en gebruiksvriendelijker uitziet.
 
-Onderzoeksvraag:
+**Onderzoeksvraag:**
 Hoe kunnen we de website consistent en gebruiksvriendelijker maken? 
 
-Hypothese:
+**Hypothese:**
 Wij denken dat de website duidelijker gemaakt kan worden door de kleuren aan te passen zodat alle pagina’s op elkaar lijken en soepel in elkaar overlopen. De tekst moet overal dezelfde kleur krijgen en even groot zijn. Ook denken wij dat een terug-knop de gebruiksvriendelijkheid flink kan vergroten.
 
 
